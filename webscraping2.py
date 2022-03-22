@@ -13,7 +13,3 @@ for job_element in job_elements:
     print(job_element, end="\n" *2)
 
 
-name = "Joseph"
-age = 30
-
-print('%s %d' % (name, age))
